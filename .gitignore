@@ -1,0 +1,118 @@
+# =============== #
+# UNITY GENERATED #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ===================== #
+# UNITY CACHE / AUTOGEN #
+# ===================== #
+
+# Asset store tools
+[Aa]sset[Ss]toreTools*
+
+# Addressables
+[Aa]ssets/AddressableAssetsData/*/*.bin*
+[Aa]ssets/AddressableAssetsData/*/*.hash*
+[Aa]ssets/AddressableAssetsData/link.xml
+
+# Package cache
+[Aa]rtifacts/
+Packages/manifest.json.backup
+Packages/packages-lock.json.backup
+
+# Shader cache
+[Aa]ssets/**/ShaderCache/
+
+# StreamingAssets auto copies
+StreamingAssetsCopy/
+
+# Crash and error reports
+sysinfo.txt
+
+# ============== #
+# IDE SPECIFIC   #
+# ============== #
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# MonoDevelop
+*.pidb
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# JetBrains Rider plugin generated
+Assets/Plugins/Editor/JetBrains*
+
+
+# =================== #
+# TEXTMESH PRO AUTO   #
+# =================== #
+
+[Aa]ssets/TextMesh*Pro*/Resources/*.asset
+
+# ======================== #
+# UNITY COLLAB / PLASTICSCM
+# ======================== #
+
+.gl/
+.plastic/
+PlasticSCM/
+
+# ========= #
+# PLATFORM  #
+# ========= #
+
+# Android
+*.apk
+*.aab
+*.keystore
+
+# iOS Xcode
+**/Pods/
+**/DerivedData/
+*.xcworkspace
+*.xcuserstate
+
+# Windows
+*.exe
+*.dll
+
+# WebGL
+[Aa]ssets/WebGLTemplates/*/Build/
+
+# ======= #
+# MISC    #
+# ======= #
+
+# Unity Cloud Build
+UnityCloud/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
